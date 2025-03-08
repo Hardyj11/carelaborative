@@ -2,12 +2,33 @@
   "courses": [
     {
       "course_name": "Fire Safety Training",
-      "renewal_duration": 365
+      "members": [
+        {
+          "staff_id": "1", 
+          "completion_date": "2025-03-01", 
+          "renewal_date": "2026-03-01"
+        },
+        {
+          "staff_id": "2", 
+          "completion_date": "2025-02-15", 
+          "renewal_date": "2026-02-15"
+        }
+      ]
     },
     {
       "course_name": "First Aid Training",
-      "renewal_duration": 365
+      "members": [
+        {
+          "staff_id": "1", 
+          "completion_date": "2025-01-10", 
+          "renewal_date": "2026-01-10"
+        },
+        {
+          "staff_id": "2", 
+          "completion_date": "2025-02-25", 
+          "renewal_date": "2026-02-25"
+        }
+      ]
     }
   ]
 }
-
