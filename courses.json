@@ -1,16 +1,13 @@
 {
   "courses": [
     {
-      "course_id": "course1",
-      "course_name": "Fire Safety Training"
+      "name": "Fire Safety Training",
+      "renewal_duration": 365
     },
     {
-      "course_id": "course2",
-      "course_name": "Course 2 Name"
-    },
-    {
-      "course_id": "course3",
-      "course_name": "Course 3 Name"
+      "name": "First Aid Training",
+      "renewal_duration": 730
     }
   ]
 }
+
